@@ -28,7 +28,7 @@
 
 ⚡ Fun Fact: I turn coffee into code and yarn into art! ☕💻🧶
 
-## 🛠️ Languages and Tools
+
 
 
 
