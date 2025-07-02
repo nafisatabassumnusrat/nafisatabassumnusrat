@@ -4,87 +4,92 @@
   <img src="https://img.shields.io/badge/Nusrat-0366d6?style=for-the-badge&logoColor=white" />
 </p>
 
- I am Nafisa Tabassum Nusrat👋
+👋 Hi, I’m Nafisa Tabassum Nusrat
+💻 Front-End Web Developer passionate about building clean, responsive, and user-friendly interfaces using HTML, CSS, JavaScript, React, and Bootstrap. Currently exploring C programming and contributing to student-focused open-source projects.
 
-💻 I’m a Front‑end Web Developer with a passion for blending creativity with clean code. I specialize in building responsive and visually appealing websites using HTML, CSS, JavaScript, React, Bootstrap, and more. I'm also exploring C programming and love contributing to student‑focused projects on GitHub.
+🔭 Currently Working On: Web development projects, Python scripting, and API integrations
 
-🔭 I’m currently working on Web development, Python & API 
+🌱 Currently Learning: Machine Learning (ML) & Artificial Intelligence (AI)
 
-🌱 I’m currently learning ML & AL
+👯 Open to Collaborate On: Front-end projects, open-source contributions, and beginner-friendly AI tools
 
-👯 I’m looking to collaborate on: Web dev, open-source, and AI projects
+🤝 Looking For Help With: Advanced JavaScript concepts, backend logic, and API development
 
-🤔 I’m looking for help with: Advanced JS, backend logic, and APIs
+💬 Ask Me About: Front-end development, WordPress, SEO, and getting started with AI/ML
 
-💬 Ask me about: Front-end Webdev, WordPress, SEO, AI, ML
+🧑‍💻 Currently Learning: Full-Stack Web Development & SEO
 
-📫 How to reach me: [nafisa.nusrat1234@gmail.com] || [MyLinkedIn
-](https://www.linkedin.com/in/nafisa-tabassum-nusrat-57134721a/)
+✍️ Writing About: Coding, tech, and my learning journey (blog coming soon!)
+
+🌱 Exploring: C programming projects and software development
+
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I turn coffee into code and yarn into art! ☕💻🧶
-
-
-## 🚀 Skills
-
-### 🧠 Languages
- 💡 HTML
- 🎨 CSS
- ⚙️ JavaScript
- 🧮 C
- 💻 python
-
-### 📚 Frameworks / Libraries
- 🧩 Bootstrap
- ⚛️ React JS
- 🌱 Pandas
-
-
-### 🛠️ Back-End & Tools
-🌐 Node.js
-🗂️ Git & GitHub
-
-### 📰 CMS
-🧱 WordPress
-
-### 📈 Others
-🌍 SEO
-📢 Digital Marketing
-🤝 Affiliate Marketing
+⚡ Fun Fact: I turn coffee into code and yarn into art! ☕💻🧶
 
 ## 🛠️ Languages and Tools
 
+
+
+## 🛠️ Languages & Tools I Use
+
 <p>
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/>
+
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+
+  <!-- DevOps & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+
+  <!-- Tools & Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress"/>
+
+  <!-- Automation -->
+ 
+
+  <!-- Certifications & AI/ML -->
+  <img src="https://img.shields.io/badge/MCP-AI%20Agents-blue?style=for-the-badge&logo=microsoft&logoColor=white" height="30" alt="MCP"/>
+  <img src="https://img.shields.io/badge/AI_ML-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" height="30" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/n8n-blue?style=for-the-badge&logo=n8n&logoColor=white" height="30" alt="n8n"/>
 </p>
+</p>
+
 
 
 ## 📊 GitHub Stats
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisatabassumnusrat&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nafisatabassumnusrat&theme=radical)
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisatabassumnusrat&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafisatabassumnusrat&theme=radical&hide_border=true" width="400" alt="GitHub Streak"/>
+</div>
 
 
 
 ## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisatabassumnusrat)  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafisa.nusrat123@gmail.com)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Tab_Nusrat)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisa-tabassum-nusrat-57134721a/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16PVkQJTx9/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nafisatabassumnusrat/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafisa.nusrat123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-14a800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.canva.com/design/DAGbKmu9axU/5DO4vnw4TdGuFX8WTmwQyw/view?utm_content=DAGbKmu9axU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha65b22724b)
 
 
 ---
