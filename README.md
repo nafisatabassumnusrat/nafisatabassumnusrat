@@ -1,8 +1,11 @@
-<p align="center">
+<h1 align="center">
   <img src="https://img.shields.io/badge/Nafisa-6f42c1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Tabassum-e83e8c?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Nusrat-0366d6?style=for-the-badge&logoColor=white" />
-</p>
+</h1>
+
+
+
 
 👋 Hi, I’m Nafisa Tabassum Nusrat
 💻 Front-End Web Developer passionate about building clean, responsive, and user-friendly interfaces using HTML, CSS, JavaScript, React, and Bootstrap. Currently exploring C programming and contributing to student-focused open-source projects.
@@ -29,10 +32,10 @@
 ⚡ Fun Fact: I turn coffee into code and yarn into art! ☕💻🧶
 
 
+---
 
 
-
-## 🛠️ Languages & Tools I Use
+### 🛠️ Languages & Tools I Use
 
 <p>
   <!-- Frontend -->
@@ -71,19 +74,19 @@
 </p>
 </p>
 
+---
 
-
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisatabassumnusrat&layout=compact&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafisatabassumnusrat&theme=radical&hide_border=true" width="400" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisatabassumnusrat&layout=compact&theme=radical" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=nafisatabassumnusrat&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
 
-
-## 🌐 Connect with me
+### 🌐 Connect with me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Tab_Nusrat)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisa-tabassum-nusrat-57134721a/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16PVkQJTx9/)
