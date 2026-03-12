@@ -2,50 +2,39 @@
 <img src="https://github.com/user-attachments/assets/e609b1e2-3562-4b19-a27e-55ee07605b87" width="100%"/>
 </p>
 
-<h1 align="center">
-<img src="https://img.shields.io/badge/Nafisa-6f42c1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tabassum-e83e8c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nusrat-0366d6?style=for-the-badge"/>
-</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=700&color=F75C7E&center=true&width=900&lines=Hi%2C+I+am+Nafisa+Tabassum+Nusrat;Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nafisa%20Tabassum%20Nusrat&fontSize=50&fontAlignY=40"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=700&color=F75C7E&center=true&width=900&lines=Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="65%">
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/7b82f3fd-4fde-4e6d-92c5-59fc43f218c1" width="200"/>
+
+</p>
+
+<p align="center">
 
 💻 Passionate **Front-End Web Developer**
 
 🚀 Exploring **Artificial Intelligence & Machine Learning**
 
-🥽 Interested in **AR / VR Development using Unity**
+🥽 Interested in **AR / VR Development with Unity**
 
 🌱 Currently learning **AI Agents, Python & Cloud**
 
 🤝 Open to collaborate on **Open Source Projects**
 
-⚡ Fun fact  
-I turn **coffee into code ☕** and **yarn into crochet art 🧶**
+⚡ I turn **coffee into code ☕** and **yarn into crochet art 🧶**
 
-</td>
-
-<td width="35%">
-
-<img src="https://github.com/user-attachments/assets/7b82f3fd-4fde-4e6d-92c5-59fc43f218c1" width="250"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
@@ -53,67 +42,35 @@ I turn **coffee into code ☕** and **yarn into crochet art 🧶**
 
 # 🛠 Tech Stack
 
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,python,c,cpp,docker,azure,linux,git,github,vscode"/>
 </p>
 
-### ⚙ Programming
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,c,cpp"/>
-</p>
-
-### 🧠 AI / Automation
-<p>
-<img src="https://cdn.simpleicons.org/openai/white" width="45"/>
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="45"/>
-</p>
-
-### 🥽 AR / VR Development
-<p>
+<p align="center">
 <img src="https://cdn.simpleicons.org/unity/white" width="45"/>
 <img src="https://cdn.simpleicons.org/blender/F5792A" width="45"/>
-</p>
-
-### 🎨 Design
-<p>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator"/>
+<img src="https://cdn.simpleicons.org/openai/white" width="45"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/>
 <img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
-</p>
-
-### 📊 SEO & Digital Skills
-<p>
 <img src="https://cdn.simpleicons.org/google/4285F4" width="45"/>
 <img src="https://cdn.simpleicons.org/pinterest/E60023" width="45"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 # 🧠 Skill Progress
 
-HTML  
-████████████████████ 90%
+<p align="center">
 
-CSS  
-██████████████████ 85%
+<img src="https://progress-bar.dev/90/?title=HTML&width=500"/>
+<img src="https://progress-bar.dev/85/?title=CSS&width=500"/>
+<img src="https://progress-bar.dev/80/?title=JavaScript&width=500"/>
+<img src="https://progress-bar.dev/75/?title=React&width=500"/>
+<img src="https://progress-bar.dev/70/?title=SEO&width=500"/>
+<img src="https://progress-bar.dev/60/?title=AI%20ML&width=500"/>
+<img src="https://progress-bar.dev/60/?title=Unity%20AR%20VR&width=500"/>
 
-JavaScript  
-███████████████ 80%
-
-React  
-██████████████ 75%
-
-AI / ML  
-██████████ 60%
-
-Unity / AR VR  
-██████████ 60%
-
-SEO  
-██████████████ 75%
+</p>
 
 ---
 
@@ -131,7 +88,7 @@ SEO
 
 ---
 
-# 🌌 3D Contribution Graph
+# 🌌 Contribution Graph
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafisatabassumnusrat&theme=radical"/>
@@ -149,47 +106,35 @@ SEO
 
 # 🔥 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 🧠 AI Project
-Smart Resume Builder  
-AI powered resume generator
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nafisatabassumnusrat&repo=Nusrat-Code-Editor&theme=radical"/>
+</a>
 
-</td>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nafisatabassumnusrat&repo=SmartResume&theme=radical"/>
+</a>
 
-<td width="50%">
+</p>
 
-### 💻 Web Project
-Nusrat Code Editor  
-Browser based HTML CSS JS editor
+<p align="center">
 
-</td>
-</tr>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nafisatabassumnusrat&repo=Blood-Donation-Website&theme=radical"/>
+</a>
 
-<tr>
-<td width="50%">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nafisatabassumnusrat&repo=Unity-VR-Project&theme=radical"/>
+</a>
 
-### 🩸 Social Impact
-Blood Donation Website
-
-</td>
-
-<td width="50%">
-
-### 🥽 VR Project
-Unity AR/VR Experiment
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
 # 🌍 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://x.com/Tab_Nusrat">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
@@ -221,4 +166,8 @@ Unity AR/VR Experiment
 
 # ✨ Quote
 
-> Code is like magic — when you understand it, you can create anything.
+<p align="center">
+
+Code is like magic — when you understand it, you can create anything.
+
+</p>
