@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=700&color=F75C7E&center=true&width=900&lines=Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor;Digital+Marketer;Affiliate+Marketer;Graphics+Desogner;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=700&color=F75C7E&center=true&width=900&lines=Hi+,+I+am+a+Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor;Digital+Marketer;Affiliate+Marketer;Graphics+Desogner;"/>
 </p>
 
 ---
@@ -130,8 +130,9 @@
 
 # ✨ Quote
 
-<p align="center">
-  
-<img src="[[https://img.shields.io/badge/Portfolio-14a800?style=for-the-badge](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Code%20is%20like%20magic%20—%20when%20you%20understand%20it,%20you%20can%20create%20anything.&fontSize=25&section=footer&reversal=true&animation=twinkling)]"/>
 
+<p align="center">
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nafisa%20Tabassum%20Nusrat&fontSize=50&fontAlignY=40](https://img.shields.io/badge/Portfolio-14a800?style=for-the-badge](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Code%20is%20like%20magic%20—%20when%20you%20understand%20it,%20you%20can%20create%20anything.&fontSize=25&section=footer&reversal=true&animation=twinkling"/>
 </p>
+  
+
