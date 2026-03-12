@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi,+I'm+Nusrat+%7C+Front-End+Web+Developer;Hi,+I'm+Nusrat+%7C+AI+Agent+Developer;Hi,+I'm+Nusrat+%7C+AR%2FVR+Explorer;Hi,+I'm+Nusrat+%7C+Open+Source+Contributor;Hi,+I'm+Nusrat+%7C+Digital+Marketer;Hi,+I'm+Nusrat+%7C+Affiliate+Marketer;Hi,+I'm+Nusrat+%7C+Graphics+Designer"/>
+</p>
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nafisa%20Tabassum%20Nusrat&fontSize=50&fontAlignY=40"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi,+I'm+Nusrat+%7C+Front-End+Web+Developer;Hi,+I'm+Nusrat+%7C+AI+Agent+Developer;Hi,+I'm+Nusrat+%7C+AR%2FVR+Explorer;Hi,+I'm+Nusrat+%7C+Open+Source+Contributor;Hi,+I'm+Nusrat+%7C+Digital+Marketer;Hi,+I'm+Nusrat+%7C+Affiliate+Marketer;Hi,+I'm+Nusrat+%7C+Graphics+Designer"/>
-</p>
 
 ## 👩‍💻 About Me
 
