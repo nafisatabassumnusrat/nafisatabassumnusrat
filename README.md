@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&color=gradient&text=Hi,%20I'm%20Nusrat%20|%20Future%20AI%20Engineer%20|%20Game%20Developer%20|%20AI/ML%20Enthusiast%20|%20Student%20at%20Daffodil%20International%20University&fontSize=30&fontAlignY=60&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6ec7,100:00c9ff&text=Nafisa%20Tabassum%20Nusrat&fontSize=50&fontAlignY=40"/>
 </p>
 
 
