@@ -16,22 +16,21 @@
 
 # 👩‍💻 About Me
 
-💻 Passionate **Front-End Web Developer** who loves building clean, responsive, and user-friendly interfaces.
+💻 Passionate **Front-End Web Developer** focused on building clean, responsive, and user-friendly interfaces.
 
-🚀 Currently exploring **Artificial Intelligence, Machine Learning, and AI Agents**
+🚀 Exploring **Artificial Intelligence, Machine Learning, and AI Agents**
 
 🌱 Currently learning **Python, AI/ML, and Cloud technologies**
 
-👯 Open to collaborate on **Open Source Projects and Front-End Development**
+🤝 Open to collaborate on **Open Source Projects and Front-End Development**
 
 💬 Ask me about:
 
-- HTML  
-- CSS  
-- JavaScript  
-- React  
+- Web Development  
+- SEO Optimization  
 - WordPress  
-- SEO  
+- AI Tools  
+- Automation  
 
 ⚡ Fun fact:  
 I turn **coffee into code ☕** and **yarn into crochet art 🧶**
@@ -40,29 +39,58 @@ I turn **coffee into code ☕** and **yarn into crochet art 🧶**
 
 # 🛠 Tech Stack
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### ⚙ Backend
+---
+
+### ⚙ Backend & Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,c,cpp" />
 </p>
 
-### 🗄 Database
+---
+
+### 🧠 AI / Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/AI-Agents-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-AI%20Agents-purple?style=for-the-badge"/>
 </p>
+
+---
+
+### 🎨 Design Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
+<img src="https://img.shields.io/badge/Canva-Design-blue?style=for-the-badge&logo=canva"/>
+</p>
+
+---
+
+### 📊 SEO & Digital Skills
+
+<p>
+<img src="https://img.shields.io/badge/SEO-Optimization-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinterest-Marketing-red?style=for-the-badge"/>
+</p>
+
+---
 
 ### ☁ DevOps & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,azure,linux" />
 </p>
+
+---
 
 ### 🧰 Tools
 
