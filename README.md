@@ -1,7 +1,9 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e609b1e2-3562-4b19-a27e-55ee07605b87" width="100%"/>
 </p>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6ec7,100:00c9ff&text=Nafisa%20Tabassum%20Nusrat&fontSize=50&fontAlignY=40"/>
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&center=true&vCenter=true&width=1000&color=FF6EC7&color=7F00FF&color=00C9FF&color=00F260&color=F7971E&lines=Hi,+I'm+Nusrat+%7C+Front-End+Web+Developer;Hi,+I'm+Nusrat+%7C+AI+Agent+Developer;Hi,+I'm+Nusrat+%7C+Future+AI+Engineer;Hi,+I'm+Nusrat+%7C+Game+Developer;Hi,+I'm+Nusrat+%7C+AI%2FML+Enthusiast;Hi,+I'm+Nusrat+%7C+AR%2FVR+Explorer;Hi,+I'm+Nusrat+%7C+Open+Source+Contributor;Hi,+I'm+Nusrat+%7C+Digital+Marketer;Hi,+I'm+Nusrat+%7C+Affiliate+Marketer;Hi,+I'm+Nusrat+%7C+Graphics+Designer;Hi,+I'm+Nusrat+%7C+Student+at+Daffodil+International+University"/>
 </p>
