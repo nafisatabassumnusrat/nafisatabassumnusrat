@@ -7,14 +7,13 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=700&color=F75C7E&center=true&width=900&lines=Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=700&color=F75C7E&center=true&width=900&lines=Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor;Digital+Marketer;Affiliate+Marketer;Graphics+Desogner;"/>
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 
-<table>
+<table align="center">
 <tr>
 <td width="65%" align="left">
 
@@ -41,7 +40,7 @@
 </table>
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 
 # 🛠 Tech Stack
 
@@ -105,35 +104,6 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
-# 🔥 Featured Projects
-
-<p align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nafisatabassumnusrat&repo=Nusrat-Code-Editor&theme=radical"/>
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nafisatabassumnusrat&repo=SmartResume&theme=radical"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nafisatabassumnusrat&repo=Blood-Donation-Website&theme=radical"/>
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nafisatabassumnusrat&repo=Unity-VR-Project&theme=radical"/>
-</a>
-
-</p>
-
----
 
 # 🌍 Connect With Me
 
@@ -170,7 +140,7 @@
 # ✨ Quote
 
 <p align="center">
-
-Code is like magic — when you understand it, you can create anything.
+  
+<img src="[https://img.shields.io/badge/Portfolio-14a800?style=for-the-badge](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Code%20is%20like%20magic%20—%20when%20you%20understand%20it,%20you%20can%20create%20anything.&fontSize=25&section=footer&reversal=true&animation=twinkling)"/>
 
 </p>
