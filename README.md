@@ -29,10 +29,6 @@ Hi, I'm Nusrat | Future AI Engineer | Game Developer | AI/ML Enthusiast | Studen
 </svg>
 
 </p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6ec7,100:00c9ff&text=Nafisa%20Tabassum%20Nusrat&fontSize=50&fontAlignY=40"/>
-</p>
-
 
 
 
