@@ -10,7 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=700&color=F75C7E&center=true&width=900&lines=Hi+,+I+am+a+Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor;Digital+Marketer;Affiliate+Marketer;Graphics+Desogner;"/>
 </p>
 
----
 ## 👩‍💻 About Me
 
 <table align="center">
