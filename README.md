@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Inspired%20by-Ramesh--0-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="no connections"/>
-  </a>
+ 
 </p>
 
 <h1 align="center">
