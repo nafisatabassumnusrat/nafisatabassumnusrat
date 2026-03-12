@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=700&color=F75C7E&center=true&width=900&lines=Hi+,+I+am+a+Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor;Digital+Marketer;Affiliate+Marketer;Graphics+Desogner;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=700&color=F75C7E&center=true&width=900&lines=Hi+,+I+am+a+Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor;Digital+Marketer;Affiliate+Marketer;Graphics+Desogner;"/>
 </p>
 
 ## 👩‍💻 About Me
@@ -55,6 +55,8 @@
 <img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
 <img src="https://cdn.simpleicons.org/google/4285F4" width="45"/>
 <img src="https://cdn.simpleicons.org/pinterest/E60023" width="45"/>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator"/>
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
 </p>
 
 ---
@@ -70,6 +72,7 @@
 <img src="https://img.shields.io/badge/SEO-70%25-34A853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20ML-60%25-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Unity%20AR%20VR-60%25-000000?style=for-the-badge"/>
+
 
 </p>
 
