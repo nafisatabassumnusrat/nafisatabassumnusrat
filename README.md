@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=700&color=F75C7E&center=true&width=900&prefix=Hi,+I+am+&lines=Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor;Digital+Marketer;Affiliate+Marketer;Graphics+Designer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi,+I'm+Nusrat+%7C+Front-End+Web+Developer;Hi,+I'm+Nusrat+%7C+AI+Agent+Developer;Hi,+I'm+Nusrat+%7C+AR%2FVR+Explorer;Hi,+I'm+Nusrat+%7C+Open+Source+Contributor;Hi,+I'm+Nusrat+%7C+Digital+Marketer;Hi,+I'm+Nusrat+%7C+Affiliate+Marketer;Hi,+I'm+Nusrat+%7C+Graphics+Designer"/>
 </p>
 
 ## 👩‍💻 About Me
