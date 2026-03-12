@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="https://img.shields.io/badge/Inspired%20by-Ramesh--0-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="no connections"/>
- 
-</p>
+
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/Nafisa-6f42c1?style=for-the-badge&logoColor=white" />
