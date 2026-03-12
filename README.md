@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nafisatabassumnusrat/nafisatabassumnusrat/main/assets/banner.png" alt="banner" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=1100&lines=Hi%2C+I+am+Nafisa+Tabassum+Nusrat;A+Front-End+Web+Developer;AI+Agent+Developer" alt="Typing SVG" />
-</p>
-
 
   
 
