@@ -64,13 +64,13 @@
 
 <p align="center">
 
-<img src="https://progress-bar.dev/90/?title=HTML&width=500"/>
-<img src="https://progress-bar.dev/85/?title=CSS&width=500"/>
-<img src="https://progress-bar.dev/80/?title=JavaScript&width=500"/>
-<img src="https://progress-bar.dev/75/?title=React&width=500"/>
-<img src="https://progress-bar.dev/70/?title=SEO&width=500"/>
-<img src="https://progress-bar.dev/60/?title=AI%20ML&width=500"/>
-<img src="https://progress-bar.dev/60/?title=Unity%20AR%20VR&width=500"/>
+<img src="https://img.shields.io/badge/HTML-90%25-ff4b4b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEO-70%25-34A853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20ML-60%25-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unity%20AR%20VR-60%25-000000?style=for-the-badge"/>
 
 </p>
 
@@ -130,9 +130,8 @@
 
 # ✨ Quote
 
-
 <p align="center">
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nafisa%20Tabassum%20Nusrat&fontSize=50&fontAlignY=40](https://img.shields.io/badge/Portfolio-14a800?style=for-the-badge](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Code%20is%20like%20magic%20—%20when%20you%20understand%20it,%20you%20can%20create%20anything.&fontSize=25&section=footer&reversal=true&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Code%20is%20like%20magic%20—%20when%20you%20understand%20it,%20you%20can%20create%20anything.&fontSize=25&section=footer&reversal=true&animation=twinkling"/>
 </p>
   
 
