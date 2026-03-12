@@ -4,32 +4,9 @@
 
 <p align="center">
 
-<svg width="900" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-
-<linearGradient id="grad">
-<stop offset="0%" stop-color="#ff6ec7">
-<animate attributeName="stop-color" values="#ff6ec7;#7f00ff;#00c9ff;#00f260;#ff6ec7" dur="6s" repeatCount="indefinite"/>
-</stop>
-
-<stop offset="100%" stop-color="#00c9ff">
-<animate attributeName="stop-color" values="#00c9ff;#ff6ec7;#7f00ff;#00f260;#00c9ff" dur="6s" repeatCount="indefinite"/>
-</stop>
-
-</linearGradient>
-
-</defs>
-
-<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-font-family="Poppins" font-size="28" fill="url(#grad)">
-Hi, I'm Nusrat | Future AI Engineer | Game Developer | AI/ML Enthusiast | Student at Daffodil International University
-</text>
-
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&color=gradient&text=Hi,%20I'm%20Nusrat%20|%20Future%20AI%20Engineer%20|%20Game%20Developer%20|%20AI/ML%20Enthusiast%20|%20Student%20at%20Daffodil%20International%20University&fontSize=30&fontAlignY=60&animation=fadeIn"/>
 
 </p>
-
 
 
 ## 👩‍💻 About Me
