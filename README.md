@@ -1,8 +1,33 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e609b1e2-3562-4b19-a27e-55ee07605b87" width="100%"/>
 </p>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&center=true&vCenter=true&width=1000&color=FF6EC7&color=7F00FF&color=00C9FF&color=00F260&color=F7971E&lines=Hi,+I'm+Nusrat+%7C+Front-End+Web+Developer;Hi,+I'm+Nusrat+%7C+AI+Agent+Developer;Hi,+I'm+Nusrat+%7C+Future+AI+Engineer;Hi,+I'm+Nusrat+%7C+Game+Developer;Hi,+I'm+Nusrat+%7C+AI%2FML+Enthusiast;Hi,+I'm+Nusrat+%7C+AR%2FVR+Explorer;Hi,+I'm+Nusrat+%7C+Open+Source+Contributor;Hi,+I'm+Nusrat+%7C+Digital+Marketer;Hi,+I'm+Nusrat+%7C+Affiliate+Marketer;Hi,+I'm+Nusrat+%7C+Graphics+Designer;Hi,+I'm+Nusrat+%7C+Student+at+Daffodil+International+University"/>
+
+<svg width="900" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="grad">
+<stop offset="0%" stop-color="#ff6ec7">
+<animate attributeName="stop-color" values="#ff6ec7;#7f00ff;#00c9ff;#00f260;#ff6ec7" dur="6s" repeatCount="indefinite"/>
+</stop>
+
+<stop offset="100%" stop-color="#00c9ff">
+<animate attributeName="stop-color" values="#00c9ff;#ff6ec7;#7f00ff;#00f260;#00c9ff" dur="6s" repeatCount="indefinite"/>
+</stop>
+
+</linearGradient>
+
+</defs>
+
+<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+font-family="Poppins" font-size="28" fill="url(#grad)">
+Hi, I'm Nusrat | Future AI Engineer | Game Developer | AI/ML Enthusiast | Student at Daffodil International University
+</text>
+
+</svg>
+
 </p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6ec7,100:00c9ff&text=Nafisa%20Tabassum%20Nusrat&fontSize=50&fontAlignY=40"/>
