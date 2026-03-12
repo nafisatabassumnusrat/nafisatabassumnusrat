@@ -55,6 +55,22 @@ I turn **coffee into code ☕** and **yarn into crochet art 🧶**
 
 ---
 
+---
+
+### ☁ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,azure,linux" />
+</p>
+
+---
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 ### 🧠 AI / Automation
 
 <p>
@@ -82,22 +98,14 @@ I turn **coffee into code ☕** and **yarn into crochet art 🧶**
 <img src="https://img.shields.io/badge/Pinterest-Marketing-red?style=for-the-badge"/>
 </p>
 
----
-
-### ☁ DevOps & Cloud
+### 🥽 AR / VR Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,azure,linux" />
+<img src="https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge&logo=unity"/>
+<img src="https://img.shields.io/badge/Virtual-Reality-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Augmented-Reality-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3D-Interaction-red?style=for-the-badge"/>
 </p>
-
----
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
 ---
 
 # 📊 GitHub Analytics
