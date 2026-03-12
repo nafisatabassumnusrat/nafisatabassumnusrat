@@ -15,12 +15,6 @@
 <!-- ===================== -->
 <!--   TYPING ANIMATION    -->
 <!-- ===================== -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=1100&lines=Hi%2C+I+am+Nafisa+Tabassum+Nusrat;A+Front-End+Web+Developer;AI+Agent+Developer"
-    alt="Typing SVG"
-  />
-</p>
 
 <!-- ===================== -->
 <!--      NAME BADGES      -->
@@ -32,9 +26,12 @@
 </h1>
 
 <p align="center">
-  👋 Hi, I’m <b>Nafisa Tabassum Nusrat</b><br/>
-  💻 Front-End Web Developer • AI Agent Developer
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=1100&lines=Hi%2C+I+am+Nafisa+Tabassum+Nusrat;A+Front-End+Web+Developer;AI+Agent+Developer"
+    alt="Typing SVG"
+  />
 </p>
+
 
 ---
 
