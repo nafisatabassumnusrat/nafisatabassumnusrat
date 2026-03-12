@@ -12,15 +12,11 @@
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-<p align="center">
-
-<img src="https://github.com/user-attachments/assets/7b82f3fd-4fde-4e6d-92c5-59fc43f218c1" width="200"/>
-
-</p>
-
-<p align="center">
+<table>
+<tr>
+<td width="65%" align="left">
 
 💻 Passionate **Front-End Web Developer**
 
@@ -34,8 +30,15 @@
 
 ⚡ I turn **coffee into code ☕** and **yarn into crochet art 🧶**
 
-</p>
+</td>
 
+<td width="35%" align="right">
+
+<img src="https://github.com/user-attachments/assets/7b82f3fd-4fde-4e6d-92c5-59fc43f218c1" width="260"/>
+
+</td>
+</tr>
+</table>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
