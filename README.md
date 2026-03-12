@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=700&color=F75C7E&center=true&width=900&lines=Hi+,+I+am+a+Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor;Digital+Marketer;Affiliate+Marketer;Graphics+Desogner;"/>
+
+<b>Hi, I am a </b>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=700&color=F75C7E&center=true&width=900&lines=Front-End+Web+Developer;AI+Agent+Developer;AR%2FVR+Explorer;Open+Source+Contributor;Digital+Marketer;Affiliate+Marketer;Graphics+Designer"/>
+
 </p>
 
 ## 👩‍💻 About Me
