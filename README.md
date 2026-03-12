@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Ramesh-0">
+    <img src="https://img.shields.io/badge/Inspired%20by-Ramesh--0-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Inspired by Ramesh-0"/>
+  </a>
+</p>
+
 <h1 align="center">
   <img src="https://img.shields.io/badge/Nafisa-6f42c1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Tabassum-e83e8c?style=for-the-badge&logoColor=white" />
