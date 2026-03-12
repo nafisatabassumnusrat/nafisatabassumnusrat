@@ -109,21 +109,12 @@
 
 <p align="center">
 
-<a href="https://x.com/Tab_Nusrat">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nafisa-tabassum-nusrat-57134721a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:nafisa.nusrat123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://nafisatabassumnusrat.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-14a800?style=for-the-badge"/>
-</a>
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Tab_Nusrat)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisa-tabassum-nusrat-57134721a/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16PVkQJTx9/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nafisatabassumnusrat/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafisa.nusrat123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-14a800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nafisatabassumnusrat.lovable.app/)
 
 </p>
 
@@ -141,6 +132,6 @@
 
 <p align="center">
   
-<img src="[https://img.shields.io/badge/Portfolio-14a800?style=for-the-badge](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Code%20is%20like%20magic%20—%20when%20you%20understand%20it,%20you%20can%20create%20anything.&fontSize=25&section=footer&reversal=true&animation=twinkling)"/>
+<img src="[[https://img.shields.io/badge/Portfolio-14a800?style=for-the-badge](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Code%20is%20like%20magic%20—%20when%20you%20understand%20it,%20you%20can%20create%20anything.&fontSize=25&section=footer&reversal=true&animation=twinkling)]"/>
 
 </p>
