@@ -1,23 +1,13 @@
-<!-- ===================== -->
-<!--     TOP BANNER        -->
-<!-- ===================== -->
-<!-- <p align="center">
-  <!-- GitHub README e <video> embed beshirvag somoy render hoy na.
-       Tai banner er jonno GIF use kora best. 
-       Apnar uploaded asset link (user-attachments) ta niche diye dilam
-       + fallback hishebe Reddit GIF o rakhlam. -->
-
-  <!-- Primary (GitHub uploaded attachment) -->
-
-
-  
-  <img
-    src="https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=gif&s=014a8734c8d65fe3b5ef04658714bef6fc97778c"
-    alt="banner"
-    width="100%"
-  />
-  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nafisatabassumnusrat/nafisatabassumnusrat/main/assets/banner.png" alt="banner" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=1100&lines=Hi%2C+I+am+Nafisa+Tabassum+Nusrat;A+Front-End+Web+Developer;AI+Agent+Developer" alt="Typing SVG" />
+</p>
+
+
+  
 
 
 
