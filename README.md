@@ -48,15 +48,23 @@
 </p>
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/unity/white" width="45"/>
-<img src="https://cdn.simpleicons.org/blender/F5792A" width="45"/>
-<img src="https://cdn.simpleicons.org/openai/white" width="45"/>
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
-<img src="https://cdn.simpleicons.org/google/4285F4" width="45"/>
-<img src="https://cdn.simpleicons.org/pinterest/E60023" width="45"/>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator"/>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
+  <img src="https://cdn.simpleicons.org/unity/white" width="45"/>
+  <img src="https://cdn.simpleicons.org/blender/F5792A" width="45"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" width="45"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="45"/>
+  <img src="https://cdn.simpleicons.org/pinterest/E60023" width="45"/>
+  <img src="https://cdn.simpleicons.org/vercel/white" width="45"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="45"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" width="45"/>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" height="45"/>
+  <img src="https://skillicons.dev/icons?i=api" height="45"/>
+    <img src="https://cdn.simpleicons.org/wordpress/21759B" width="45"/>
+   <img src="https://cdn.simpleicons.org/github/white" width="45"/>
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45"/>
 </p>
 
 ---
