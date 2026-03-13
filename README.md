@@ -56,7 +56,7 @@
   <img src="https://cdn.simpleicons.org/pinterest/E60023" width="45"/>
   <img src="https://cdn.simpleicons.org/vercel/white" width="45"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="45"/>
+  <i class="devicon-github-original-wordmark" width="45"></i>
   <img src="https://cdn.simpleicons.org/github/white" width="45"/>
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="45"/>
   <img src="https://cdn.simpleicons.org/wordpress/21759B" width="45"/>
