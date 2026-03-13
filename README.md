@@ -60,9 +60,8 @@
   <img src="https://cdn.simpleicons.org/github/white" width="45"/>
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="45"/>
   <img src="https://cdn.simpleicons.org/wordpress/21759B" width="45"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator" height="45"/>
-  <img src="https://skillicons.dev/icons?i=api" height="45"/>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45"/>
 
 </p>
