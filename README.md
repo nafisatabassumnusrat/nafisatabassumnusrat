@@ -50,9 +50,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/unity/white" width="45"/>
   <img src="https://cdn.simpleicons.org/blender/F5792A" width="45"/>
-  <img src="https://cdn.simpleicons.org/openai/412991" width="45"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45"/>
   <img src="https://cdn.simpleicons.org/google/4285F4" width="45"/>
   <img src="https://cdn.simpleicons.org/pinterest/E60023" width="45"/>
