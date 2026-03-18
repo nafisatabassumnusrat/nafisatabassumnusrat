@@ -85,7 +85,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nafisatabassumnusrat&theme=radical&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nafisatabassumnusrat&theme=onedark"/>
 </p>
 ---
 
