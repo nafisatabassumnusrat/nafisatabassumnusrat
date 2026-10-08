@@ -1,4 +1,3 @@
-
 <p align="center">
   <video
     width="100%"
@@ -8,7 +7,7 @@
     playsinline
     controls
   >
-    <source src="YOUR_MP4_ATTACHMENT_URL" type="video/mp4">
+    <source src="[YOUR_MP4_ATTACHMENT_URL](https://github.com/nafisatabassumnusrat/nafisatabassumnusrat/issues/3#issue-5762174732)" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
