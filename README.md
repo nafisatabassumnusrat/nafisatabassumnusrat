@@ -50,19 +50,19 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/unity/white" width="45"/>
-  <img src="https://cdn.simpleicons.org/blender/F5792A" width="45"/>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45"/>
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="45"/>
-  <img src="https://cdn.simpleicons.org/pinterest/E60023" width="45"/>
-  <img src="https://cdn.simpleicons.org/vercel/white" width="45"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="45"/>
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="45"/>
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="45"/>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" height="45"/>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45"/>
+  <img src="https://cdn.simpleicons.org/unity/white" width="45"/>
+  <img src="https://cdn.simpleicons.org/blender/F5792A" width="45"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45"/>
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="45"/>
+  <img src="https://cdn.simpleicons.org/pinterest/E60023" width="45"/>
+  <img src="https://cdn.simpleicons.org/vercel/white" width="45"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="45"/>
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="45"/>
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="45"/>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45"/>
 </p>>
 
 ---
@@ -148,5 +148,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Code%20is%20like%20magic%20—%20when%20you%20understand%20it,%20you%20can%20create%20anything.&fontSize=25&section=footer&reversal=true&animation=twinkling"/>
 </p>
-  
+  
 
+
+github reporsitory teh ami amar 2nd video 1st ei upload dibo kivabe dibo repo update kore daw
