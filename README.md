@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/e609b1e2-3562-4b19-a27e-55ee07605b87" width="100%"/>
+<img src="https://github.com/nafisatabassumnusrat/nafisatabassumnusrat/issues/6#issue-5762996784" width="100%"/>
 
 </p>
 
