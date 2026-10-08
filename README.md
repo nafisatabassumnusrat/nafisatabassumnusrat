@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/193872157/668743639-53166775-b617-4575-9940-348853df8a59.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTE0NjgzNDUsIm5iZiI6MTc5MTQ2ODA0NSwicGF0aCI6Ii8xOTM4NzIxNTcvNjY4NzQzNjM5LTUzMTY2Nzc1LWI2MTctNDU3NS05OTQwLTM0ODg1M2RmOGE1OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTAwOFQxNDAwNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OTUyMjQ2NDg2MzJhNzk2ZGY5NjViNzAwNGZlYjdiZDI2Mjk0ZmY0YmM2MmI2Mzg1OTJhNjc1NDljNjFmOTk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.E8loQpPyCqGEu53SNA9oSCj022ITFq59DLScQl996Ig" width="100%">
 </p>
-
+ 
 <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&center=true&vCenter=true&width=1000&color=FF6EC7&color=7F00FF&color=00C9FF&color=00F260&color=F7971E&lines=Hi,+I'm+Nusrat+%7C+Front-End+Web+Developer;Hi,+I'm+Nusrat+%7C+AI+Agent+Developer;Hi,+I'm+Nusrat+%7C+Future+AI+Engineer;Hi,+I'm+Nusrat+%7C+Game+Developer;Hi,+I'm+Nusrat+%7C+AI%2FML+Enthusiast;Hi,+I'm+Nusrat+%7C+AR%2FVR+Explorer;Hi,+I'm+Nusrat+%7C+Open+Source+Contributor;Hi,+I'm+Nusrat+%7C+Digital+Marketer;Hi,+I'm+Nusrat+%7C+Affiliate+Marketer;Hi,+I'm+Nusrat+%7C+Graphics+Designer;Hi,+I'm+Nusrat+%7C+Student+at+Daffodil+International+University"/>
