@@ -1,15 +1,5 @@
 <p align="center">
-  <video
-    width="100%"
-    autoplay
-    loop
-    muted
-    playsinline
-    controls
-  >
-    <source src="[YOUR_MP4_ATTACHMENT_URL](https://github.com/nafisatabassumnusrat/nafisatabassumnusrat/issues/3#issue-5762174732)" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<img src="https://github.com/nafisatabassumnusrat/nafisatabassumnusrat/issues/6#issue-5762996784" width="100%"/>
 </p>
 
 
