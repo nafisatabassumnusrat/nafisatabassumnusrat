@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/193872157/668743639-53166775-b617-4575-9940-348853df8a59.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTE0NjgzNDUsIm5iZiI6MTc5MTQ2ODA0NSwicGF0aCI6Ii8xOTM4NzIxNTcvNjY4NzQzNjM5LTUzMTY2Nzc1LWI2MTctNDU3NS05OTQwLTM0ODg1M2RmOGE1OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTAwOFQxNDAwNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OTUyMjQ2NDg2MzJhNzk2ZGY5NjViNzAwNGZlYjdiZDI2Mjk0ZmY0YmM2MmI2Mzg1OTJhNjc1NDljNjFmOTk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.E8loQpPyCqGEu53SNA9oSCj022ITFq59DLScQl996Ig" width="100%">
+  <img src="https://github.com/user-attachments/assets/53166775-b617-4575-9940-348853df8a59" width="100%">
 </p>
  
 <p align="center">
@@ -18,71 +18,72 @@
 
 
 
-
-
-## 👩‍💻 About Me
-
-
+# What I Build
 
 <table align="center">
-
 <tr>
+<td width="50%" align="left">
 
-<td width="65%" align="left">
+### AI Engineering
 
-
-
-💻 Passionate **Front-End Web Developer**
-
-
-
-🚀 Exploring **Artificial Intelligence & Machine Learning**
-
-
-
-🥽 Interested in **AR / VR Development with Unity**
-
-
-
-🌱 Currently learning **AI Agents, Python & Cloud**
-
-
-
-🤝 Open to collaborate on **Open Source Projects**
-
-
-
-⚡ I turn **coffee into code ☕** and **yarn into crochet art 🧶**
-
-
+- AI Agents
+- LLM Applications
+- RAG Systems
+- AI Automation
+- Prompt Engineering
+- MCP & Tool Use
+- Intelligent Decision Systems
 
 </td>
 
+<td width="50%" align="left">
 
+### Full Stack Web Developer
 
-<td width="35%" align="right">
-
-
-
-<img src="https://github.com/user-attachments/assets/7b82f3fd-4fde-4e6d-92c5-59fc43f218c1" width="260"/>
-
-
+- Full Stack Web Applications
+- React & Next.js
+- REST APIs
+- FastAPI
+- Interactive Web Experiences
+- AI-powered Products
 
 </td>
-
 </tr>
 
+<tr>
+<td width="50%" align="left">
+
+### Machine Learning
+
+- Computer Vision
+- NLP
+- CNN
+- Vision Transformers
+- Predictive Systems
+- Explainable AI
+
+</td>
+
+<td width="50%" align="left">
+
+### Creative Designer
+
+- UI/UX Design
+- Graphics Design
+- Motion Graphics
+- Video Editing
+- Branding
+- Interactive 3D
+- AR/VR
+
+</td>
+</tr>
 </table>
 
 ---
 
 
-
-
-
-
-
-# 🛠 Tech Stack
+#  Tech Stack
 
 
 
@@ -130,7 +131,7 @@
 
 
 
-# 🧠 Skill Progress
+#  Skill Progress
 
 
 
@@ -164,21 +165,143 @@
 
 
 
-# 🏆 GitHub Achievements
+# Achievements & Recognition
 
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
+### CHAMPION
 
-<p align="center">
+**AI Buildfest 2026**  
+BRAC University
 
-<img src="https://github-profile-trophy.vercel.app/?username=nafisatabassumnusrat&theme=onedark"/>
+</td>
 
-</p>
+<td width="50%" align="center">
+
+### CHAMPION
+
+**RoboCamp 2026**  
+Line Follower Robot — DIU
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### CHAMPION
+
+**4th NSTU National Science Fest 2026**
+
+</td>
+
+<td width="50%" align="center">
+
+### CHAMPION
+
+**Line Follower Robot**  
+EEE Day 2026
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### SILVER MEDALIST
+
+**World Robot Games — National Round**  
+Qualified for International Round, Japan
+
+</td>
+
+<td width="50%" align="center">
+
+### 2ND RUNNER-UP
+
+**AI Fest 2025**  
+Department of CIS, DIU
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### GALACTIC PROBLEM SOLVER
+
+**NASA Space Apps Challenge 2025**  
+Team Neural Nebula
+
+</td>
+
+<td width="50%" align="center">
+
+### TOP 50
+
+**Agent X AI Prompting**  
+29th Nationwide
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+**Certified Research Poster Presenter**  
+DIU Division of Research (DoR)
+
+</td>
+
+<td align="center">
+
+**Distinguished Award — 2026**  
+Department Head & Dean, DIU
+
+</td>
+
+<td align="center">
+
+**Top 10**  
+Machine Learning Bootcamp
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**Gemini Credits Winner**  
+Build With AI Hack Days 2026
+
+</td>
+
+<td align="center">
+
+**Conference Officer Award**  
+DIU Model United Nations Association
+
+</td>
+
+<td align="center">
+
+**Special Mention**  
+DIU RoboCamp 2026
+
+</td>
+</tr>
+</table>
 
 ---
 
 
-
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 
 
@@ -238,25 +361,14 @@
 
 # 🌍 Connect With Me
 
-
-
 <p align="center">
 
-
-
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Tab_Nusrat)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisa-tabassum-nusrat-57134721a/)
-
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16PVkQJTx9/)
-
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nafisatabassumnusrat/)
-
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafisa.nusrat123@gmail.com)
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-14a800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nafisatabassumnusrat.lovable.app/)
-
-
 
 </p>
 
@@ -265,16 +377,6 @@
 ---
 
 
-
-# 👀 Visitor Counter
-
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nafisatabassumnusrat&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
 
 
 
